@@ -9,4 +9,4 @@ In the second phase the platform will be launched expected Q3, 2021 ddecentraliz
 The Platform is based on the Command Query separation technique (write and read requests performed separately) and is divided into five basic logic layers: the Distributed Storage Layer, the Ethereum Ledger Layer, the Access Layer, the Interface Layer, and the Applications Layer, see white paper for more detailed info.
 
 
-First stakes in start ups will be made public on 1 May 2021.
+First stakes in start-ups will be made public for voting on 1 May 2021.
